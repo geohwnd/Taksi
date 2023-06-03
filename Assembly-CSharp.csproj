@@ -60,6 +60,8 @@
   <ItemGroup>
     <Compile Include="Assets\Taxi_Car\NoRotate.cs" />
     <Compile Include="Assets\Taxi_Car\SoundTaxi\CarSound.cs" />
+    <Compile Include="Assets\Taxi_Car\CarCollisions.cs" />
+    <Compile Include="Assets\Taxi_Car\People\People_S.cs" />
     <Compile Include="Assets\Taxi_Car\CarController.cs" />
   </ItemGroup>
   <ItemGroup>
