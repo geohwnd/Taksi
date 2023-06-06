@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638211037021466187
-    m_Hash: 3402483678
+      ticks: 638216047220323590
+    m_Hash: 4148841846
   m_LockFileStatus:
     m_FilePath: D:/Proyectos_Unity/Taksi/TaksiGit/Taksi/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638211037021531025
-    m_Hash: 3869661075
+      ticks: 638216047220383513
+    m_Hash: 689153483
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -418,6 +418,102 @@ m_ResolvedPackages:
     deprecationMessage: 
   isDeprecated: 0
   deprecationMessage: 
+- packageId: com.unity.terrain-tools@5.0.3
+  testable: 0
+  isDirectDependency: 1
+  version: 5.0.3
+  source: 1
+  resolvedPath: D:\Proyectos_Unity\Taksi\TaksiGit\Taksi\Library\PackageCache\com.unity.terrain-tools@5.0.3
+  assetPath: Packages/com.unity.terrain-tools
+  name: com.unity.terrain-tools
+  displayName: Terrain Tools
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: asset
+  description: "The Terrain Tools package adds additional Terrain sculpting brushes
+    and tools to Unity. This add-on toolset is suitable if you require more control
+    over the appearance of your Terrain, and want to streamline Terrain workflows.
+    It\u2019s also useful when you want to make more complex-looking Terrain, or
+    author Terrain Texture data in external digital content creation tools."
+  status: 0
+  errors: []
+  versions:
+    all:
+    - 1.1.2-preview
+    - 1.1.4-preview
+    - 2.0.0-preview
+    - 2.0.1-preview
+    - 2.0.2-preview
+    - 3.0.0-preview
+    - 3.0.1-preview
+    - 3.0.2-preview.2
+    - 3.0.2-preview.3
+    - 4.0.0-pre.2
+    - 4.0.0
+    - 4.0.3
+    - 4.0.5
+    - 5.0.0-pre.2
+    - 5.0.0-pre.3
+    - 5.0.0-pre.4
+    - 5.0.1
+    - 5.0.2
+    - 5.0.3
+    - 5.1.0-pre.1
+    - 5.1.0
+    compatible:
+    - 5.0.1
+    - 5.0.2
+    - 5.0.3
+    recommended: 5.0.3
+    deprecated: []
+  dependencies:
+  - name: com.unity.modules.terrain
+    version: 1.0.0
+  - name: com.unity.modules.terrainphysics
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.terrain
+    version: 1.0.0
+  - name: com.unity.modules.terrainphysics
+    version: 1.0.0
+  - name: com.unity.modules.physics
+    version: 1.0.0
+  keywords:
+  - Terrain
+  - Brush
+  - Toolbox
+  - Mask
+  - Filter
+  - Noise
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 0
+  isAssetStorePackage: 0
+  datePublishedTicks: 638114753660000000
+  documentationUrl: https://docs.unity3d.com/Packages/com.unity.terrain-tools@5.0/manual/index.html
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/TerrainTools.git
+    revision: 8f4924be39fa52a519c7055acc5624e12598f92f
+    path: 
+  unityLifecycle:
+    version: 5.0.1
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
 - packageId: com.unity.textmeshpro@3.0.6
   testable: 0
   isDirectDependency: 1
@@ -695,6 +791,7 @@ m_ResolvedPackages:
     - 1.8.0
     - 1.8.1
     - 1.8.2
+    - 1.8.3
     compatible:
     - 1.7.2
     - 1.7.3
@@ -702,6 +799,7 @@ m_ResolvedPackages:
     - 1.8.0
     - 1.8.1
     - 1.8.2
+    - 1.8.3
     recommended: 1.7.4
     deprecated: []
   dependencies:
